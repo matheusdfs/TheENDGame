@@ -1,6 +1,6 @@
 # TheENDGame
 
-This game was made in 2019 for the discipline of programming techniques. Me and my colleague, Maurício Cezimbra, did all in one month using C++ 98 and the graphic library SFML. The game have menu and two phases, each one with different obstacles and enemys.
+This game was made in 2019 for the discipline of programming techniques. Me and my colleague, Maurício Cezimbra, did all in one month using C++ 98 and the graphic library SFML. The game have menu and two phases, each one with different obstacles and enemys. You can also play with a friend in the same computer.
 
 ![Image of the menu](https://github.com/matheusdfs/TheENDGame/blob/main/Imagens/MenuPrincipal.png)
 ![Image of the second menu](https://github.com/matheusdfs/TheENDGame/blob/main/Imagens/MenuSecundário.png)
